@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^origin(/.*)?$ https://pokemon.coderobo.org/poke$1 [L,R=301]
