@@ -1,2 +1,2 @@
 RewriteEngine On
-RewriteRule ^origin(/.*)?$ https://pokemon.coderobo.org/poke$1 [L,R=301]
+RewriteRule ^origin(/.*)?$ https://testing-poke.vercel.app/poke$1 [L,R=301]
